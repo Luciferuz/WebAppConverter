@@ -1,3 +1,9 @@
+```main:```
+![badge](https://github.com/Luciferuz/WebAppConverter/actions/workflows/maven.yml/badge.svg?branch=main)
+```develop:```
+![badge](https://github.com/Luciferuz/WebAppConverter/actions/workflows/maven.yml/badge.svg?branch=develop)
+
+
 # WebAppConverter
 Веб-приложение для конвертации различных единиц измерения физических величин
 
