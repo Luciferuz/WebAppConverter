@@ -1,0 +1,9 @@
+com\antsiferov\webappconverter\controller\HomeController.class
+com\antsiferov\webappconverter\controller\TImeController.class
+com\antsiferov\webappconverter\controller\LanguageController.class
+com\antsiferov\webappconverter\controller\MetreController.class
+com\antsiferov\webappconverter\controller\AboutController.class
+com\antsiferov\webappconverter\controller\ControllerHelloWorld.class
+com\antsiferov\webappconverter\config\LanguageConfig.class
+com\antsiferov\webappconverter\WebAppConverterApplication.class
+com\antsiferov\webappconverter\controller\Measure.class
